@@ -1,0 +1,21 @@
+h1 {
+    background-color: yellow;
+    color: blue;
+}
+
+
+p {
+    color: red;
+}
+
+.caja {
+    color: red;
+font-size:20px;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+/* Ejemplo de  contenedor Div y comentario*/
+
+div>span{
+    color:rgb(0, 255, 234);
+}

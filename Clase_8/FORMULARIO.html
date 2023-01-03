@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORMULARIO</title>
+
+    <STYLE>
+        body {
+            background-color: #DAF7A6;
+        }
+    </STYLE>
+
+
+</head>
+
+<body>
+    <header>
+        <h1>ENCUESTA PERSONAL</h1>
+        <h2>Ingres tus Datos</h2>
+    </header>
+
+    <main>
+        <form action="">
+            <!-- NAME = ENLACES CON OTRAS HOJAS Y DEMAS  -->
+
+            <label for="nombre">Nombre:</label>
+            <input type="text" name="cajita de nombre" id="nombre"><br><br>
+
+            <label form="apellido">Apellido:</label>
+            <input type="text" name="cajita de apellido" id="apellido"><br><br>
+
+            <label for="correo">Correo:</label>
+            <input type="email" name="correo electronico" id="correo"><br><br>
+
+            <label for="contacto">Contacto:</label>
+            <input type="text" name="telefono" id="contacto"><br><br>
+
+            <label for="dni"> DNI:</label>
+            <input type="text" name="numero de dni" id="dni"><br><br>
+
+            <label for="edad">Edad:</label>
+            <input type="number" name="edad" id="edad"><br><br>
+
+            <label for="direccion">Dirección:</label>
+            <input type="text" name="la direccion" id="direccion"><br><br>
+
+            <label for="nacimiento">Nacimento:</label>
+            <input type="date" name="fecha de nacimiento" id="nacimiento"><br><br>
+
+            <label for="contraseña">Contraseña:</label>
+            <input type="password" name="la contraseña" id="contraseña"><br><br>
+
+
+
+
+            <label for="redes sociales">Redes Sociales</label><br>
+            <input type="checkbox" id="redes sociales" name="FACEBOOK"> <label>Facebook</label><br>
+            <input type="checkbox" id="redes sociales" name="INSTAGRAM"> <label>Instagram</label><br>
+            <input type="checkbox" id="redes sociales" name="TWITTER"><label>Twitter</label><br><br>
+
+
+            <label for="genero">Género</label>
+            <select name="el genero" id="genero">
+                <option value="MUJER">Mujer</option>
+                <option value="HOMBRE">Hombre</option>
+            </select>
+
+            <br></br>
+            <button type="button">Enviar </button>
+
+        </form>
+
+
+
+        <h2>SEGUNDO FORMULARIO</h2>
+
+
+        <form action="/action_page.php" method="get">
+            <label for="fname">First name:</label>
+            <input type="text" id="fname" name="fname"><br><br>
+            <label for="lname">Last name:</label>
+            <input type="text" id="lname" name="lname"><br><br>
+            <input type="submit" value="Submit">
+        </form>
+
+    </main>
+    <FOODER></FOODER>
+
+
+</body>
+
+</html>

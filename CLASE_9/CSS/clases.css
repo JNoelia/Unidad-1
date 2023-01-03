@@ -1,0 +1,25 @@
+.clase{
+    color:rgb(12, 64, 236);
+    background-color:rgb(253, 253, 133);
+    margin:5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:16px;
+}
+
+.clase1{
+    color: rgb(0, 174, 255);
+    background-color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.clase2{
+    color: brown;
+    background-color: aquamarine;
+    font-size:20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.clase3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}

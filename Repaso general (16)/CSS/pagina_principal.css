@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+
+header{
+    background-image: url("https://cdn.shopify.com/s/files/1/2309/6853/products/collagethumb.png?v=1578499688");
+    text-align: center;
+    width:auto;
+    height:450px;
+color: azure;
+      }
+
+
+.titulo {
+    font-size: 45px;
+    padding-top: 20%;
+    box-shadow: 0 8px 40px rgb(0, 0, 0);
+  
+}
+
+.desplegable {
+    text-align: right;
+    margin-right: 20PX;
+   
+}
+

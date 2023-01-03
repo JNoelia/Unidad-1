@@ -1,0 +1,48 @@
+/* ENCABEZADO */
+
+header {
+    background-image: url(https://images.unsplash.com/photo-1497942304796-b8bc2cc898f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YWVzdGhldGljJTIwdmludGFnZXxlbnwwfHwwfHw%3D&w=1000&q=80);
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+/* boton a la pagina principal */
+.tl {
+    margin: 50px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    background-color: rgb(98, 16, 231);
+    border-radius: 30px;
+    margin: 15px;
+    padding: 4px 20px;
+}
+
+.subtl {
+    margin: auto;
+    max: width 100px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+ 
+
+.encabezado {
+    color: white;
+    text-align: justify-all;
+    text-align: center;
+}
+
+/* BODY */
+body {
+    font-family: "calibri";
+    color: black;
+}
+
+.a{
+  
+
+}
